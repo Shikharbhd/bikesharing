@@ -20,7 +20,7 @@ Ridership times have high usage during typical commute times and Saturdays. This
 Ridership is higher during commute hours for both male and female; however, males are higher.
 [!trips_by_gender.png]
 
-Likewise
+Likewise, ridership is higher among men according to user types as well;
 [!user_trips_by_gender_by_wday.png]
 
 [link to dashboard](https://public.tableau.com/app/profile/shikhar.bahadur.bhandari/viz/NYC_Citibike_Challenge_16321101969580/NYCCitibikeStory?publish=yes)
@@ -28,7 +28,11 @@ Likewise
 ### Summary
 
 The following points can be summarized from the data:
+
 a. Most bikesharing users are male and the bikes are checked out for shorter duration of 20 minutes or less. 
+
 b. It appears non-members mostly use the service possible hinting the large number of tourist using the service.
+
 c. Most bikes are used to commute to and from work and occured in Mahattan also suggesting that the service is used by subscribed members residing in the city, hence the short trips.
+
 d. While there is potential that the bikesharing would be profitable in Des Moines, but more research is needed.  
