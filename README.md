@@ -23,7 +23,9 @@ Ridership is higher during commute hours for both male and female; however, male
 Likewise
 [!user_trips_by_gender_by_wday.png]
 
-###Summary
+[link to dashboard](https://public.tableau.com/app/profile/shikhar.bahadur.bhandari/viz/NYC_Citibike_Challenge_16321101969580/NYCCitibikeStory?publish=yes)
+
+### Summary
 
 The following points can be summarized from the data:
 a. Most bikesharing users are male and the bikes are checked out for shorter duration of 20 minutes or less. 
