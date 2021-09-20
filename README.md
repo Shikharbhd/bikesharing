@@ -2,7 +2,7 @@
 
 ### Overview.
 
-This proposal is to convince investors that a bike-sharing program in Des Moines is a solid business proposal for. The challenge analysis looks at data from New York City and how successful the program is and what the trends are regards to the program. The goal is to determine whether or not it is a viable investment for Des Moines.
+This proposal is to convince investors that a bike-sharing program in Des Moines is a solid business proposal. The challenge analysis looks at data from New York City and how successful the program is and what the trends are regards to the program. The goal is to determine whether or not it is a viable investment for Des Moines.
 
 ### Deliverable.
 The challenge includes three deliverables.
