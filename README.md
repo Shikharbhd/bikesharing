@@ -1,4 +1,4 @@
-# Bikesharing Proposal
+# Bikesharing Proposal for Des Moines
 
 ### Overview.
 
@@ -6,26 +6,26 @@ This proposal to entice investors for a Bike Sharing business in Des Moines, IA.
 
 ### Results.
 Bikesharing in very popular with over 2.3 million people using the servive. aroud 18.93% of these users are regular members while the rest of the riders 81.07% are possible tourists. Also the service is widely used by male population (65.28%). The trip duration of the ride service is generally short at around 10 minutes.
-[!general_Info.png]
+![general_Info.png](https://github.com/Shikharbhd/bikesharing/blob/main/Resources/Images/general_Info.png)
 
 This visualization shows the length of time that bikes are checked out for all riders and well as for each gender. The graphic shows that most bikes are checked out for 20 minutes or less and mostly men use the service.
-[!checkout_times.png]
+![checkout_times.png](https://github.com/Shikharbhd/bikesharing/blob/main/Resources/Images/checkout_times.png)
 
 These visualisation shows that Manhattan in the popular starting and ending location for the bike service.
-[!popular_location.png]
+![popular_location.png](https://github.com/Shikharbhd/bikesharing/blob/main/Resources/Images/popular_location.png)
 
 Ridership times have high usage during typical commute times and Saturdays. This would give opportunity to swap the bikes for maintenance during off peak hours.
-[!trips_wday_per_hour.png]
+![trips_by_wday_per_hour.png](https://github.com/Shikharbhd/bikesharing/blob/main/Resources/Images/trips_by_wday_per_hour.png)
 
-Ridership is higher during commute hours for both male and female; however, males are higher.
-[!trips_by_gender.png]
+Similarly, ridership is higher during commute hours for both male and female; however, there are more male riders than female riders.
+![trips_by_gender_wday_per_hour.png](https://github.com/Shikharbhd/bikesharing/blob/main/Resources/Images/trips_by_gender_wday_per_hour.png)
 
-Likewise, ridership is higher among men according to user types as well;
-[!user_trips_by_gender_by_wday.png]
+Likewise, ridership is higher among male riders according to user types as well;
+![user_trips_by_gender_by_wday.png](https://github.com/Shikharbhd/bikesharing/blob/main/Resources/Images/user_trips_by_gender_by_wday.png)
 
-[link to dashboard](https://public.tableau.com/app/profile/shikhar.bahadur.bhandari/viz/NYC_Citibike_Challenge_16321101969580/NYCCitibikeStory?publish=yes)
+[NYC_Citibike_Challenge by Shikhar Bahadur Bhandari](https://public.tableau.com/app/profile/shikhar.bahadur.bhandari/viz/NYC_Citibike_Challenge_16321101969580/NYCCitibikeStory?publish=yes)
 
-### Summary
+### Summary.
 
 The following points can be summarized from the data:
 
