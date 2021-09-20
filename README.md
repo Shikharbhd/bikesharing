@@ -2,7 +2,28 @@
 
 ### Overview.
 
-This proposal to entice investors for a Bike Sharing business in Des Moines, IA. The analysis looks at data from New York City and how successful the program is and what the trends are regards to the program. The goal is to determine whether or not it is a viable investment for Des Moines.
+This proposal is to convince investors that a bike-sharing program in Des Moines is a solid business proposal for. The challenge analysis looks at data from New York City and how successful the program is and what the trends are regards to the program. The goal is to determine whether or not it is a viable investment for Des Moines.
+
+### Deliverable.
+The challenge includes three deliverables.
+
+a. Deliverable 1: Change Trip Duration to a Datetime Format
+
+b. Deliverable 2: Create Visualizations for the Trip Analysis
+
+c. Deliverable 3: Create a Story and Report for the Final Presentation
+
+### Approach.
+This analysis uses Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, the converted datatype is used to create a set of visualizations to:
+
+a. Show the length of time that bikes are checked out for all riders and genders
+
+b. Show the number of bike trips for all riders and genders for each hour of each day of the week
+
+c. Show the number of bike trips for each type of user and gender for each day of the week.
+
+And finally produce a presentation and analysis to pitch to investors 
+
 
 ### Results.
 Bikesharing in very popular with over 2.3 million people using the servive. aroud 18.93% of these users are regular members while the rest of the riders 81.07% are possible tourists. Also the service is widely used by male population (65.28%). The trip duration of the ride service is generally short at around 10 minutes.
